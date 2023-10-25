@@ -1,0 +1,7 @@
+real	3m27.030s
+user	5m25.305s
+sys	1m12.046s
+Records: 160000000
+Checksum: 422d553d4b9c4e
+Duplicate keys: 0
+SUCCESS - all records are in order
